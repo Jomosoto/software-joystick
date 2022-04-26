@@ -1,7 +1,7 @@
 # Rust Virtual Linux Joystick
 
-This repo allows you to emulate a joystick in Rust.
-The project is built off [Gwilym Kuiper's work](https://github.com/gwilymk/arduino-joystick).
+This project allows users to create a software-controlled joystick.
+Built off [Gwilym Kuiper's work](https://github.com/gwilymk/arduino-joystick).
 
 # Building
 
